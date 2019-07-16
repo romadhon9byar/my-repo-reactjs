@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-repo-reactjs/static/css/main.2cce8147.chunk.css",
+    "main.js": "/my-repo-reactjs/static/js/main.76168fd2.chunk.js",
+    "main.js.map": "/my-repo-reactjs/static/js/main.76168fd2.chunk.js.map",
+    "runtime~main.js": "/my-repo-reactjs/static/js/runtime~main.2b63a38d.js",
+    "runtime~main.js.map": "/my-repo-reactjs/static/js/runtime~main.2b63a38d.js.map",
+    "static/js/2.b41502e9.chunk.js": "/my-repo-reactjs/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/my-repo-reactjs/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/my-repo-reactjs/index.html",
+    "precache-manifest.1a5b224979ea98bc9c8061e53033609d.js": "/my-repo-reactjs/precache-manifest.1a5b224979ea98bc9c8061e53033609d.js",
+    "service-worker.js": "/my-repo-reactjs/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/my-repo-reactjs/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/my-repo-reactjs/static/media/logo.5d5d9eef.svg"
+  }
+}
